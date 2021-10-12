@@ -1,10 +1,7 @@
 ## Hi there 👋,
 
-I'm Sakib Hossain from Bangladesh, and I do content on Design and Develpoment in WordPress
+I'm Sakib Hossain from Bangladesh, and I do content on Design and Develpoment in WordPress.
 
-
-
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: Wordpress/ JS / HTML / CSS
 
