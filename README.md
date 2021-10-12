@@ -1,4 +1,6 @@
-## Hi there 👋, I'm Sakib Hossain
+## Hi there 👋,
+
+I'm Sakib Hossain from Bangladesh, and I do content on Design and Develpoment in WordPress
 
 
 
